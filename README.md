@@ -9,12 +9,14 @@ W. Avy hired us to unveal temperature trends before opening the surf shop In Oah
 # Overview of Analysis:
 
 We filtered the date column of the Measurements table in the hawaii.sqlite database to retrieve all the temperatures for the month of December. We converted those temperatures to a list, created a DataFrame from the list, and generated the summary statistics for the first part of our mission.
+
 ![alt text](https://github.com/stackanna/surfs_up./blob/946f4f0c7de001bd02c4259827e2edbb00649300/December%20Temperatures.png)
 
 
 # Results
 
 - Our findings showed that there was a minimal difference in temperatures between the months of June & December. Varying slightly at a mean temperature of three degrees. That shouldnt impact the difference of ice cream sales significantly in the month of December, especially compared to many other areas of the world in the winter time. 
+
 
 ![alt text](https://github.com/stackanna/surfs_up./blob/676b6a290703d0826bcda9cc48375534d660b3f8/June%20Temperatures.png)
 
