@@ -15,25 +15,21 @@ We filtered the date column of the Measurements table in the hawaii.sqlite datab
 # Results
 
 - Our findings showed that there was a minimal difference in temperatures between the months of June & December. Varying slightly at a mean temperature of three degrees. That shouldnt impact the difference of ice cream sales significantly in the month of December, especially compared to many other areas of the world in the winter time. 
+
 ![alt text](https://github.com/stackanna/surfs_up./blob/676b6a290703d0826bcda9cc48375534d660b3f8/June%20Temperatures.png)
 
-- 
+- The maximum temperatures during the months of December and June in Oahu came in at a variance of only two degrees. That is very minimal difference for summer and winter months. Two degrees should not make a noticible effect on anyone wanting ice cream during the winter months. 
 
-The analysis should contain the following:
+- The minimum variance between temperatures comes in at 8 degrees difference with the minimum being 56 degrees in December while the minimum is 64 degrees. While it is noticible, it isn't impactful.  
 
-Overview of the analysis: Explain the purpose of this analysis.
-Results: Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
-Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+# Summary: 
+
+There is only a slight variance between temperatures between the months of July & December in Oahu Hawaii. 
+
+Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
 Deliverable 3 Requirements
 
-Structure, Organization, and Formatting (6 points)
 
-The written analysis has the following structure, organization, and formatting:
-
-There is a title, and there are multiple sections. (2 pt)
-Each section has a heading and subheading. (2 pt)
-Links to images are working and displayed correctly. (2 pt)
-Analysis (14 points)
 
 The written analysis has the following:
 
