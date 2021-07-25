@@ -1,14 +1,8 @@
-# surfs_up.
+## Overview
 
-# Overview
+Click [HERE](https://github.com/stackanna/surfs_up./blob/946f4f0c7de001bd02c4259827e2edbb00649300/SurfsUp_Challenge.ipynb) to view [Surfs Up Module Challenge](https://github.com/stackanna/surfs_up./blob/946f4f0c7de001bd02c4259827e2edbb00649300/SurfsUp_Challenge.ipynb)
 
 W. Avy hired us to unveal temperature trends before opening the surf shop In Oahu Hawaii. In specific he wants temperature data for the months of June and December in order to determine if the surf and ice cream shop business is sustainable year-round.
-
-Deliverable 1: Determine the Summary Statistics for June
-Deliverable 2: Determine the Summary Statistics for December
-Deliverable 3: A written report for the statistical analysis (README.md)
-
-Using Python, Pandas functions and methods, and SQLAlchemy, you’ll filter the date column of the Measurements table in the hawaii.sqlite database to retrieve all the temperatures for the month of June. Our goal is to convert those temperatures to a list, create a DataFrame from the list, and generate the summary statistics.
 
 # Resources & Data systems used: Python, Pandas functions and methods, and SQLAlchemy. 
 
