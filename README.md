@@ -26,21 +26,4 @@ We filtered the date column of the Measurements table in the hawaii.sqlite datab
 
 # Summary: 
 
-There is only a slight variance between temperatures between the months of July & December in Oahu Hawaii. 
-
-Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
-Deliverable 3 Requirements
-
-
-
-The written analysis has the following:
-
-Overview of the statistical analysis:
-
-The purpose of the analysis is well defined. (3 pt)
-Results:
-
-There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
-Summary:
-
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
+There is only a slight variance between temperatures between the months of July & December in Oahu Hawaii. I believe an ice cream shop should not see a difference in sales during the winter months and can sucessfully operate year round. The slightest difference was in the maximum temperatures while the largest was in the minimum temperatures. 
